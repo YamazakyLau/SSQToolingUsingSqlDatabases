@@ -1,2 +1,2 @@
 # SSQToolingUsingSqlDatabases
-SSQToolingUsingSqlDatabases
+SSQToolingUsingSqlDatabases是一个利用C# 编写的Windows应用程序，可以用来操作本地或远程Mysql数据库。
